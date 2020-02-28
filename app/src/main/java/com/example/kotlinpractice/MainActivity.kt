@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val name: String = "afghdgjhg";// we can not val variable but we can use val only again and again
+        val name: String = "afghdgjhg";// we can not use val variable(name)again and again but we can use val only again and again
         var roll: Int = 79;// because val is data type
         val add: String = "gurgaon"
         val pin: Int = 56;
